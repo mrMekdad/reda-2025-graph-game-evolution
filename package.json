@@ -1,0 +1,10 @@
+{
+  "name": "reda-2025-graph-game-evolution",
+  "version": "0.1.0",
+  "description": "Strategy prototype exploring graph rules, evolution mechanics, and debug views.",
+  "author": "Red@",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/smoke.test.js"
+  }
+}
